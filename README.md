@@ -13,4 +13,4 @@ The dataset construction is based on the method noted in Large movie review data
   - 100K positive reviews (originally reviews of ratings 9-10)
   - Neutral reviews (originally reviews of ratings 5-8) are excluded
 
-```https://github.com/e9t/nsmc/```
+- https://github.com/e9t/nsmc/
