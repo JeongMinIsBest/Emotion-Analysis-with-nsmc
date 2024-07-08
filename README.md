@@ -5,6 +5,8 @@
 
 ## Naver Moview Review Data 🗂️
 
+[Naver sentiment movie corpus](https://github.com/e9t/nsmc/)
+
 This is a movie review dataset in the Korean language. Reviews were scraped from Naver Movies.
 The dataset construction is based on the method noted in Large movie review dataset from Maas et al., 2011.
 
@@ -13,8 +15,6 @@ The dataset construction is based on the method noted in Large movie review data
   - 100K negative reviews (originally reviews of ratings 1-4)
   - 100K positive reviews (originally reviews of ratings 9-10)
   - Neutral reviews (originally reviews of ratings 5-8) are excluded
-
-- [Naver sentiment movie corpus](https://github.com/e9t/nsmc/)
 
 
 ## Reference 📖
