@@ -2,7 +2,8 @@
 
 It is a project to classify emotions of comments from Naver Movie Reviews.
 
-I applied TF-IDF Method and utilized Konlpy Korean Morpho Analyzer. I also visualized the word-specific positive/negative information for verification.
+- Applied TF-IDF Method and utilized Konlpy Korean Morpho Analyzer.
+- Visualized the word-specific positive/negative information for verification.
 
 
 ## Naver Moview Review Data 🗂️
