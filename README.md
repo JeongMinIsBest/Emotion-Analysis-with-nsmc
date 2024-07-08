@@ -1,6 +1,8 @@
 ## Machine Learning Study #1 🎥
 
-네이버 영화 리뷰 감성 분류하기 프로젝트입니다.
+It is a project to classify emotions of comments from Naver Movie Reviews.
+
+I applied TF-IDF Method and utilized Konlpy Korean Morpho Analyzer. I also visualized the word-specific positive/negative information for verification
 
 
 ## Naver Moview Review Data 🗂️
