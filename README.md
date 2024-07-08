@@ -1,2 +1,2 @@
-# ML-Analysis-of-Movie-Review
-Machine Learning Study #1 🎥
+## Machine Learning Study #1 🎥
+
