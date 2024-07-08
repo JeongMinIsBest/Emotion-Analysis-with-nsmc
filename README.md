@@ -14,3 +14,9 @@ The dataset construction is based on the method noted in Large movie review data
   - Neutral reviews (originally reviews of ratings 5-8) are excluded
 
 - [Naver sentiment movie corpus](https://github.com/e9t/nsmc/)
+
+
+## Reference 📖
+
+- [머신러닝_네이버 영화 리뷰 감성 분석](https://sunnyroad.tistory.com/39)
+- [10-06 네이버 영화 리뷰 감성 분류하기(Naver Movie Review Sentiment Analysis)](https://wikidocs.net/44249)
