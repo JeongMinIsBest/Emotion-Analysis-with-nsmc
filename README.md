@@ -2,6 +2,7 @@
 
 네이버 영화 리뷰 감성 분류하기 프로젝트입니다.
 
+
 ## Naver Moview Review Data 🗂️
 
 This is a movie review dataset in the Korean language. Reviews were scraped from Naver Movies.
