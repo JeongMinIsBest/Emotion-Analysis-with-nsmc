@@ -1,4 +1,4 @@
-## Machine Learning Study #1 🎥
+## Emotion Analysis of Movie Review from nsmc 🎥
 
 It is a project to classify emotions of comments from Naver Movie Reviews.
 
