@@ -4,6 +4,7 @@ It is a project to classify emotions of comments from Naver Movie Reviews.
 
 - Applied TF-IDF Method and utilized Konlpy Korean Morphological Analyzer.
 - Visualized the word-specific positive/negative information for verification.
+<br/>
 
 
 ## Naver Moview Review Data 🗂️
@@ -18,9 +19,12 @@ The dataset construction is based on the method noted in Large movie review data
   - 100K negative reviews (originally reviews of ratings 1-4)
   - 100K positive reviews (originally reviews of ratings 9-10)
   - Neutral reviews (originally reviews of ratings 5-8) are excluded
+<br/>
 
 
 ## Reference 📖
 
 - [머신러닝_네이버 영화 리뷰 감성 분석](https://sunnyroad.tistory.com/39)
 - [10-06 네이버 영화 리뷰 감성 분류하기(Naver Movie Review Sentiment Analysis)](https://wikidocs.net/44249)
+<br/>
+
