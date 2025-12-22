@@ -17,8 +17,7 @@ Instead of complex neural architectures, this project adopts an **interpretable 
 
 ## 📂 Dataset
 
-**Naver Sentiment Movie Corpus (NSMC)**  
-https://github.com/e9t/nsmc/
+**Naver Sentiment Movie Corpus (NSMC)** - https://github.com/e9t/nsmc/
 
 - Korean-language movie reviews scraped from Naver Movies
 - Each review is shorter than **140 characters**
