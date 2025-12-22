@@ -11,8 +11,7 @@ Korean sentiment analysis presents several challenges:
 - Informal and colloquial expressions
 - Short, noisy user-generated text
 
-Instead of complex neural architectures, this project adopts an **interpretable and lightweight approach** using TF-IDF–based representations.  
-The goal is to understand **which lexical features contribute most strongly to sentiment prediction** in Korean text.
+Instead of complex neural architectures, this project adopts an **interpretable and lightweight approach** using TF-IDF–based representations. The goal is to understand **which lexical features contribute most strongly to sentiment prediction** in Korean text.
 <br/>
 <br/>
 
@@ -28,8 +27,7 @@ https://github.com/e9t/nsmc/
   - **100,000 positive reviews** (ratings 9–10)
 - Neutral reviews (ratings 5–8) are excluded
 
-The dataset construction follows the methodology described in  
-*Maas et al., 2011 – Large Movie Review Dataset*.
+The dataset construction follows the methodology described in *Maas et al., 2011 – Large Movie Review Dataset*.
 <br/>
 <br/>
 
@@ -71,7 +69,6 @@ This qualitative analysis helps reveal:
 - Balanced dataset (50% positive / 50% negative)
 - Classification performance above the random baseline (50%)
 - Results demonstrate that TF-IDF combined with Logistic Regression provides a strong baseline for Korean sentiment classification
-
 *(Exact metrics may vary depending on preprocessing and training settings.)*
 <br/>
 <br/>
@@ -104,10 +101,8 @@ This qualitative analysis helps reveal:
 
 ## 📚 References
 
-- 머신러닝 네이버 영화 리뷰 감성 분석  
-  https://sunnyroad.tistory.com/39
-- Naver Movie Review Sentiment Analysis  
-  https://wikidocs.net/44249
+- [머신러닝 네이버 영화 리뷰 감성 분석](https://sunnyroad.tistory.com/39)
+- [Naver Movie Review Sentiment Analysis](https://wikidocs.net/44249)
 - Maas et al., 2011. *Learning Word Vectors for Sentiment Analysis*
 <br/>
 <br/>
