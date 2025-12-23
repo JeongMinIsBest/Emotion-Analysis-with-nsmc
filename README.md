@@ -1,4 +1,4 @@
-# 🎬 Sentiment Analysis of Korean Movie Reviews (NSMC)
+# 🎬 Sentiment Analysis of Korean Movie Reviews from NSMC
 
 This project performs **binary sentiment classification (positive vs. negative)** on Korean movie reviews using classical NLP techniques. It focuses on how **linguistic preprocessing and feature extraction** affect sentiment prediction in a **morphologically rich language** such as Korean.
 <br/>
