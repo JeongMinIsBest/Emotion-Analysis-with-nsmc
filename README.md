@@ -1,11 +1,9 @@
 # 🎬 Sentiment Analysis of Korean Movie Reviews from NSMC
-
 This project performs **binary sentiment classification (positive vs. negative)** on Korean movie reviews using classical NLP techniques. It focuses on how **linguistic preprocessing and feature extraction** affect sentiment prediction in a **morphologically rich language** such as Korean.
 <br/>
 <br/>
 
 ## 📌 Motivation
-
 Korean sentiment analysis presents several challenges:
 - Agglutinative morphology
 - Informal and colloquial expressions
@@ -16,7 +14,6 @@ Instead of complex neural architectures, this project adopts an **interpretable 
 <br/>
 
 ## 📂 Dataset
-
 **Naver Sentiment Movie Corpus (NSMC)** - https://github.com/e9t/nsmc/
 
 - Korean-language movie reviews scraped from Naver Movies
@@ -50,7 +47,6 @@ The dataset construction follows the methodology described in *Maas et al., 2011
 <br/>
 
 ## 📊 Analysis & Interpretation
-
 Beyond predictive performance, this project emphasizes **model interpretability** through:
 - Visualization of **word-level TF-IDF weights**
 - Inspection of terms contributing most strongly to positive and negative predictions
@@ -64,7 +60,6 @@ This qualitative analysis helps reveal:
 <br/>
 
 ## 📈 Results
-
 - Balanced dataset (50% positive / 50% negative)
 - Classification performance above the random baseline (50%)
 - Results demonstrate that TF-IDF combined with Logistic Regression provides a strong baseline for Korean sentiment classification
@@ -99,7 +94,6 @@ This qualitative analysis helps reveal:
 <br/>
 
 ## 📚 References
-
 - [머신러닝 네이버 영화 리뷰 감성 분석](https://sunnyroad.tistory.com/39)
 - [Naver Movie Review Sentiment Analysis](https://wikidocs.net/44249)
 - Maas et al., 2011. *Learning Word Vectors for Sentiment Analysis*
